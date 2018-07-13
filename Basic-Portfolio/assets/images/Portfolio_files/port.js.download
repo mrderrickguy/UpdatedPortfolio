@@ -1,0 +1,13 @@
+$(document).ready(function(){
+
+	
+	$("html").hover(function(){
+$(".display-4").slideUp(4000);
+ $(".jumbotron").slideUp("slow");
+ $("body").css("background-color", "lightblue");
+
+});
+
+});
+	//});
+

@@ -1,0 +1,94 @@
+/*first  position my content*/
+#topnav{
+	margin-bottom:15px;
+}
+
+#APC{
+		margin-top: 2em;
+		float:right;
+}
+
+.list-group-item{
+	width: 100%;
+}
+
+span {
+    position: absolute;
+    left: 2px;
+    top: 0px;
+    z-index: -1;
+}
+
+#portfolio,#contactme,#boutme{
+	padding: 5px;
+margin-left: 4px;
+}
+	
+	h1{
+		text-shadow:2px 1px white;
+
+	}
+h3{
+	float: right;
+}
+
+#aboutMe{
+	text-shadow: 3px 2px #50D0F0;
+}
+	
+	.container-1{
+		float: left;
+	}
+
+.nav-link{
+	color: black;
+}
+
+	a {
+		color: red;
+	}
+
+#tabs {
+	margin-right:10em;
+
+}
+
+#linkbox{
+	border-radius: 10px;
+	background-color:darkgray;
+	height: 200px;
+}
+
+#mybox{border-radius: 10px;
+	background-color: darkgray;
+	}
+
+#name{ 
+	position: relative;
+    top: 5px;
+    left: 16px;
+    font-size: 28px;
+	margin-right:5px; 
+		}
+.col-md-12{
+	margin-bottom: 15px;
+
+}
+#footerRow{
+	width:auto;
+	margin-top:10rem;
+
+}
+#pagebottom{
+	margin-left: 10px;
+	width:100%;
+	text-align: center; 
+	margin-top: 10rem; 
+	background-color: gray; 
+	padding: 5px;
+}
+img{width: 60px;
+height: 60px;
+}
+
+

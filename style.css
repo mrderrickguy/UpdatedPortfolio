@@ -1,0 +1,400 @@
+.Home-page{
+	background-color: ;
+}
+
+.container-1{
+
+	background-color: #32BCFF;
+}
+
+.connection{
+	float: right;
+}
+
+#linkBox{
+	border:solid black;
+	border-radius:120px;
+}
+
+button{
+	display: inline-block;
+	background: none;
+	border:none;
+}
+
+h3{
+	font-family: 'Acme', sans-serif ;
+	text-shadow: 1px 1px 2px  #32BCFF;
+	 
+}
+
+
+#ulbtn{
+
+	margin-left: 17%;
+}
+
+a{
+	background: none;
+
+}
+
+.git{
+	margin-left: 18%;
+
+}
+
+.link {
+	margin-left: 18%;	
+
+}
+
+
+.twit{
+	margin-left: 11%;
+
+}
+
+#linkSide{
+	margin-top: -.1%;
+
+}
+
+.page-header{
+text-align: center; text-shadow: 0px 2px 4px #32BCFF;
+
+}
+
+.icon { 
+	margin-right:20px;
+ 
+ }
+
+ .icon1 { 
+ 	margin-right:10px;
+ 	margin-top: -8%;
+ 
+ }
+
+.icon2 { margin-right:60px;
+ 
+ }
+
+.icon:hover{
+	opacity: 1;
+ transform: scale(1.00);
+}
+.icon{
+	 opacity: 1;
+ transform: scale(1.10);
+}
+
+.icon1:hover{
+	opacity: 1;
+ transform: scale(1.00);
+}
+.icon1{
+	 opacity: 1;
+ transform: scale(1.10);
+}
+
+.icon2:hover{
+	opacity: 1;
+ transform: scale(1.00);
+}
+.icon2{
+	 opacity: 1;
+ transform: scale(1.10);
+
+}
+
+hr{
+
+	background-color:#32BCFF;
+}
+.foot{
+	color:red;
+}
+footer {
+	
+	position: relative;
+	margin-top: 20%;
+  	padding: 30px 0;
+  	clear: both;
+	font-size: 22px;
+  	color: #fff;
+  	color: #ccc;
+  	text-align: center;
+	background: #777;
+  	border-top: 8px solid #32BCFF;
+}
+@media screen and (max-width: 768px) {
+  body {
+    background:red;
+  }
+
+.connection{
+	float: right;
+}
+
+#linkBox{
+	border:solid black;
+	border-radius:120px;
+}
+
+button{
+	display: inline-block;
+	background: none;
+	border:none;
+}
+
+h3{
+	font-family: 'Acme', sans-serif ;
+	text-shadow: 1px 1px 2px  #32BCFF;
+	 
+}
+
+
+#ulbtn{
+
+	margin-left: 17%;
+}
+
+a{
+	background: none;
+
+}
+
+.git{
+	margin-left: 18%;
+
+}
+
+.links{
+	margin-right:30%;
+}
+
+.link {
+	margin-left: 18%;	
+
+}
+
+.twit{
+	margin-left: 20%;
+
+}
+
+#linkSide{
+	margin-top: 1%;
+
+}
+
+#bs-example-navbar-collapse-1 li{
+	position: fixed;
+}
+
+.page-header{
+text-align: center; text-shadow: 0px 2px 4px #32BCFF;
+
+}
+
+.icon { position: relative;
+	margin-right:20px;
+ 
+ }
+
+ img{
+ 	width:40px;
+ }
+
+ .icon1 { 
+ 	margin-right:10px;
+ 	margin-top: -8%;
+ 
+ }
+
+.icon2 { margin-right:30px;
+ 
+ }
+
+.icon:hover{
+	opacity: 1;
+ transform: scale(1.00);
+}
+.icon{
+	 opacity: 1;
+ transform: scale(1.10);
+}
+
+.icon1:hover{
+	opacity: 1;
+ transform: scale(1.00);
+}
+.icon1{
+	 opacity: 1;
+ transform: scale(1.10);
+}
+
+.icon2:hover{
+	opacity: 1;
+ transform: scale(1.00);
+}
+.icon2{
+	 opacity: 1;
+ transform: scale(1.10);
+
+}
+
+hr{
+
+	background-color:#32BCFF;
+}
+
+footer {
+	position: relative;
+	margin-top: 20%;
+  	padding: 30px 0;
+  	clear: both;
+	font-size: 22px;
+  	color: #fff;
+  	color: #ccc;
+  	text-align: center;
+	background: #777;
+  	border-top: 8px solid #32BCFF;
+}
+
+}
+
+@media screen and (max-width: 988px) {
+  body {
+    background:red;
+  }
+
+.connection{
+	float: right;
+}
+
+#linkBox{
+	border:solid black;
+	border-radius:120px;
+}
+
+button{
+	display: inline-block;
+	background: none;
+	border:none;
+}
+
+h3{
+	font-family: 'Acme', sans-serif ;
+	text-shadow: 1px 1px 2px  #32BCFF;
+	 
+}
+
+
+#ulbtn{
+
+	margin-left: 17%;
+}
+
+a{
+	background: none;
+
+}
+
+.git{
+	margin-left: 18%;
+
+}
+.links{
+	margin-left:30%;
+}
+
+.link {
+	margin-left: 18%;	
+
+}
+
+
+.twit{
+	margin-left: 20%;
+
+}
+
+#linkSide{
+
+	margin-top: -.1%;
+
+}
+
+.page-header{
+text-align: center; text-shadow: 0px 2px 4px #32BCFF;
+
+}
+
+.icon { position: relative;
+	margin-right:20px;
+ 
+ }
+
+ img{
+ 	width:30px;
+ }
+
+ .icon1 { 
+ 	margin-right:10px;
+ 	margin-top: -8%;
+ 
+ }
+
+.icon2 { margin-right:30px;
+ 
+ }
+
+.icon:hover{
+	opacity: 1;
+ transform: scale(1.00);
+}
+.icon{
+	 opacity: 1;
+ transform: scale(1.10);
+}
+
+.icon1:hover{
+	opacity: 1;
+ transform: scale(1.00);
+}
+.icon1{
+	 opacity: 1;
+ transform: scale(1.10);
+}
+
+.icon2:hover{
+	opacity: 1;
+ transform: scale(1.00);
+}
+.icon2{
+	 opacity: 1;
+ transform: scale(1.10);
+
+}
+
+hr{
+
+	background-color:#32BCFF;
+}
+
+footer {
+	position: relative;
+	margin-top: 20%;
+  	padding: 30px 0;
+  	clear: both;
+	font-size: 22px;
+  	color: #fff;
+  	color: #ccc;
+  	text-align: center;
+	background: #777;
+  	border-top: 8px solid #32BCFF;
+}
+
+}
